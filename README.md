@@ -1,4 +1,4 @@
-# React Chart App App
+# React web3 App
 
 ![App Screenshot](./src/React-App.png)
 
@@ -28,12 +28,12 @@ Before running the application, ensure you have the following software installed
 Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/pradipchavda25/react-chart-app.git
+   git clone https://github.com/pradipchavda25/web3-react-app.git
    ```
 
 #### Navigate to the project directory:
 
-    cd react-chart-app
+    cd web3-react-app
 
 #### Install the required dependencies:
 
